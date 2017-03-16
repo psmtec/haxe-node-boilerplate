@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "launch - dev",
+            "program": "${workspaceRoot}/bin/node/dev.js",
+            "cwd": "${workspaceRoot}/bin/node",
+            "outFiles": [
+                "${workspaceRoot}/bin/**/*.js"
+            ],
+            "sourceMaps": true
+        }
+    ]
+}
