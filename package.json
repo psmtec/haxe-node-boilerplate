@@ -15,7 +15,7 @@
   "license": "Unlicense",
   "devDependencies": {
     "cross-env": "^3.2.4",
-    "haxeshim": "0.6.0",
+    "haxeshim": "^0.6.2",
     "lix.pm": "^0.4.0",
     "nodemon": "^1.11.0",
     "shx": "^0.2.2",
