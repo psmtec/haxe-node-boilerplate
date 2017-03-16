@@ -1,5 +1,11 @@
 # haxe-npm-boilerplate
 
+## setup
+- ```npm install```
+- shell_1: ```npm run build:dev```
+- shell_2: ```npm run start:dev```
+- if you see the usage instructions now in shell_2, everything is working \o/
+
 ## used packages
 - [lix.pm](https://github.com/lix-pm/lix.client) - haxelib without the suck
 - [switchx](https://github.com/lix-pm/switchx) - versioned haxe compiler
