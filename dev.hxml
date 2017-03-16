@@ -1,0 +1,7 @@
+deps.hxml
+
+-debug
+--times
+
+-main Main
+-js bin/node/dev.js

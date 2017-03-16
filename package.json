@@ -1,0 +1,24 @@
+{
+  "name": "haxe-node-boilerplate",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "build:dev": "nodemon -e hx,hxml,json --exec haxe dev.hxml",
+    "build:prod": "nodemon -e hx,hxml,json --exex haxe prod.hxml",
+    "start:dev": "nodemon -e js --exec node bin/js/dev/index.js",
+    "start:prod": "nodemon -e js --exec node bin/js/prod/index.js",
+    "lix": "./node_modules/.bin/lix",
+    "switchx": "./node_modules/.bin/switchx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sh-dave",
+  "license": "Unlicense",
+  "devDependencies": {
+    "cross-env": "^3.2.4",
+    "haxeshim": "^0.6.0",
+    "lix.pm": "^0.4.0",
+    "nodemon": "^1.11.0",
+    "shx": "^0.2.2",
+    "switchx": "^0.11.0"
+  }
+}
