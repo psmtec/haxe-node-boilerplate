@@ -2,6 +2,6 @@
   "name": "haxe-node-boilerplate",
   "url": "https://github.com/sh-dave/haxe-node-boilerplate",
   "contributors": ["sh-dave"],
-  "license": "Unlicense",
+  "license": "MIT",
   "classPath": "src"
 }
