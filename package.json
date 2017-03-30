@@ -16,9 +16,9 @@
   "devDependencies": {
     "cross-env": "^3.2.4",
     "haxeshim": "^0.6.2",
-    "lix.pm": "^0.4.0",
+    "lix.pm": "^0.5.1",
     "nodemon": "^1.11.0",
     "shx": "^0.2.2",
-    "switchx": "^0.11.0"
+    "switchx": "^0.11.2"
   }
 }
