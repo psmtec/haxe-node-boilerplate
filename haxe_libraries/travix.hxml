@@ -1,3 +1,0 @@
-# @install: lix download https://github.com/back2dos/travix/archive/d85f97166441742d8ce98cb0a235ae4748000e01.tar.gz as travix#0.8.1/d85f97166441742d8ce98cb0a235ae4748000e01
--D travix=0.8.1
--cp ${HAXESHIM_LIBCACHE}/travix/0.8.1/d85f97166441742d8ce98cb0a235ae4748000e01/src

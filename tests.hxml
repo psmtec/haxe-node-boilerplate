@@ -1,4 +1,0 @@
-deps.hxml
-
--cp tests
--main TestMain
