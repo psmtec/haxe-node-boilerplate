@@ -1,4 +1,4 @@
-# haxe-npm-boilerplate
+# haxe-node-boilerplate
 
 ## setup
 - ```npm install```
